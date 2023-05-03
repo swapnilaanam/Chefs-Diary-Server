@@ -1,7 +1,7 @@
 [
     {
         "chefId": 1,
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://i.ibb.co/60h1mR8/suvir-saran.jpg",
         "chefName": "Suvir Saran",
         "yearsOfExperience": 20,
         "likes": 20000,
@@ -67,7 +67,7 @@
     },
     {
         "chefId": 2,
-        "chefPicture": "https://example.com/chef2.jpg",
+        "chefPicture": "https://i.ibb.co/1JPmRmJ/vikas-khanna.jpg",
         "chefName": "Vikas Khanna",
         "yearsOfExperience": 25,
         "likes": 50000,
@@ -119,7 +119,7 @@
     },
     {
         "chefId": 3,
-        "chefPicture": "https://example.com/chef3.jpg",
+        "chefPicture": "https://i.ibb.co/F0B5nFX/sanjeev-kapoor.jpg",
         "chefName": "Sanjeev Kapoor",
         "yearsOfExperience": 30,
         "likes": 100000,
@@ -197,7 +197,7 @@
     },
     {
         "chefId": 4,
-        "chefPicture": "https://example.com/chef4.jpg",
+        "chefPicture": "https://i.ibb.co/q9Y3Ys0/madhur-jaffrey.jpg",
         "chefName": "Madhur Jaffrey",
         "yearsOfExperience": 35,
         "likes": 75000,
@@ -248,7 +248,7 @@
     },
     {
         "chefId": 5,
-        "chefPicture": "https://example.com/chef9.jpg",
+        "chefPicture": "https://i.ibb.co/gSmCQkg/saransh-goila.jpg",
         "chefName": "Saransh Goila",
         "yearsOfExperience": 12,
         "numberOfRecipes": 4,
@@ -310,7 +310,7 @@
     },
     {
         "chefId": 6,
-        "chefPicture": "https://example.com/ranveer-brar.png",
+        "chefPicture": "https://i.ibb.co/rcQ9nCR/ranveer-brar.jpg",
         "chefName": "Ranveer Brar",
         "yearsOfExperience": 20,
         "numberOfRecipes": 3,
