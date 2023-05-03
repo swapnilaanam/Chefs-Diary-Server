@@ -1,0 +1,360 @@
+[
+    {
+        "chefId": 1,
+        "chefPicture": "https://example.com/chef1.jpg",
+        "chefName": "Suvir Saran",
+        "yearsOfExperience": 20,
+        "likes": 20000,
+        "numberOfRecipes": 4,
+        "recipes": [
+            {
+                "recipeId": 1,
+                "recipeName": "Chicken Tikka Masala",
+                "ingredients": [
+                    "Boneless Chicken",
+                    "Yogurt",
+                    "Ginger",
+                    "Garlic",
+                    "Tomatoes",
+                    "Spices"
+                ],
+                "cookingMethod": "Grill the marinated chicken and cook in a creamy tomato-based sauce",
+                "rating": 4.7
+            },
+            {
+                "recipeId": 2,
+                "recipeName": "Chana Masala",
+                "ingredients": [
+                    "Chickpeas",
+                    "Onion",
+                    "Tomatoes",
+                    "Ginger",
+                    "Garlic",
+                    "Spices"
+                ],
+                "cookingMethod": "Cook chickpeas in a spiced tomato-based gravy",
+                "rating": 4.5
+            },
+            {
+                "recipeId": 3,
+                "recipeName": "Aloo Gobi",
+                "ingredients": [
+                    "Potatoes",
+                    "Cauliflower",
+                    "Onion",
+                    "Tomatoes",
+                    "Ginger",
+                    "Spices"
+                ],
+                "cookingMethod": "Sauté the potatoes and cauliflower with spices and cook in a tomato-based gravy",
+                "rating": 4.2
+            },
+            {
+                "recipeId": 4,
+                "recipeName": "Palak Paneer",
+                "ingredients": [
+                    "Spinach",
+                    "Paneer",
+                    "Onion",
+                    "Tomatoes",
+                    "Ginger",
+                    "Spices"
+                ],
+                "cookingMethod": "Blanch spinach, purée and cook with spices and cubed paneer",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "chefId": 2,
+        "chefPicture": "https://example.com/chef2.jpg",
+        "chefName": "Vikas Khanna",
+        "yearsOfExperience": 25,
+        "likes": 50000,
+        "numberOfRecipes": 3,
+        "recipes": [
+            {
+                "recipeId": 1,
+                "recipeName": "Butter Chicken",
+                "ingredients": [
+                    "Boneless Chicken",
+                    "Butter",
+                    "Yogurt",
+                    "Tomatoes",
+                    "Cream",
+                    "Spices"
+                ],
+                "cookingMethod": "Grill the marinated chicken and cook in a tomato and cream-based sauce",
+                "rating": 4.6
+            },
+            {
+                "recipeId": 2,
+                "recipeName": "Dal Makhani",
+                "ingredients": [
+                    "Whole Urad Dal",
+                    "Kidney Beans",
+                    "Butter",
+                    "Cream",
+                    "Onion",
+                    "Spices"
+                ],
+                "cookingMethod": "Cook lentils and beans with spices and finish with butter and cream",
+                "rating": 4.1
+            },
+            {
+                "recipeId": 3,
+                "recipeName": "Matar Paneer",
+                "ingredients": [
+                    "Paneer",
+                    "Peas",
+                    "Onion",
+                    "Tomatoes",
+                    "Ginger",
+                    "Spices"
+                ],
+                "cookingMethod": "Cook peas and cubed paneer in a tomato and onion-based gravy",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "chefId": 3,
+        "chefPicture": "https://example.com/chef3.jpg",
+        "chefName": "Sanjeev Kapoor",
+        "yearsOfExperience": 30,
+        "likes": 100000,
+        "numberOfRecipes": 5,
+        "recipes": [
+            {
+                "recipeId": 1,
+                "recipeName": "Kadhai Paneer",
+                "ingredients": [
+                    "Paneer",
+                    "Capsicum",
+                    "Onion",
+                    "Tomatoes",
+                    "Ginger",
+                    "Spices"
+                ],
+                "cookingMethod": "Cook paneer and vegetables in a spiced tomato-based gravy",
+                "rating": 3.4
+            },
+            {
+                "recipeId": 2,
+                "recipeName": "Rajma Chawal",
+                "ingredients": [
+                    "Kidney Beans",
+                    "Onion",
+                    "Tomatoes",
+                    "Ginger",
+                    "Garlic",
+                    "Spices"
+                ],
+                "cookingMethod": "Cook beans with spices and serve with steamed rice",
+                "rating": 4.9
+            },
+            {
+                "recipeId": 3,
+                "recipeName": "Pav Bhaji",
+                "ingredients": [
+                    "Potatoes",
+                    "Tomatoes",
+                    "Peas",
+                    "Onion",
+                    "Capsicum",
+                    "Spices"
+                ],
+                "cookingMethod": "Cook mashed vegetables in a spice blend and serve with buttered pav bread",
+                "rating": 3.4
+            },
+            {
+                "recipeId": 4,
+                "recipeName": "Biryani",
+                "ingredients": [
+                    "Basmati Rice",
+                    "Chicken",
+                    "Onion",
+                    "Tomatoes",
+                    "Spices"
+                ],
+                "cookingMethod": "Cook marinated chicken and rice with spices and serve hot",
+                "rating": 5
+            },
+            {
+                "recipeId": 5,
+                "recipeName": "Tandoori Chicken",
+                "ingredients": [
+                    "Chicken",
+                    "Yogurt",
+                    "Ginger",
+                    "Garlic",
+                    "Spices"
+                ],
+                "cookingMethod": "Marinate chicken with spices and yogurt and grill to perfection",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "chefId": 4,
+        "chefPicture": "https://example.com/chef4.jpg",
+        "chefName": "Madhur Jaffrey",
+        "yearsOfExperience": 35,
+        "likes": 75000,
+        "numberOfRecipes": 3,
+        "recipes": [
+            {
+                "recipeId": 1,
+                "recipeName": "Chicken Korma",
+                "ingredients": [
+                    "Boneless Chicken",
+                    "Yogurt",
+                    "Cream",
+                    "Onion",
+                    "Ginger",
+                    "Spices"
+                ],
+                "cookingMethod": "Cook marinated chicken in a creamy onion and yogurt-based gravy",
+                "rating": 4.8
+            },
+            {
+                "recipeId": 2,
+                "recipeName": "Baingan Bharta",
+                "ingredients": [
+                    "Eggplant",
+                    "Tomatoes",
+                    "Onion",
+                    "Ginger",
+                    "Garlic",
+                    "Spices"
+                ],
+                "cookingMethod": "Roast eggplant and cook with spices and tomato and onion",
+                "rating": 4
+            },
+            {
+                "recipeId": 3,
+                "recipeName": "Paneer Tikka",
+                "ingredients": [
+                    "Paneer",
+                    "Yogurt",
+                    "Ginger",
+                    "Garlic",
+                    "Spices"
+                ],
+                "cookingMethod": "Marinate paneer with yogurt and spices and grill to perfection",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "chefId": 5,
+        "chefPicture": "https://example.com/chef9.jpg",
+        "chefName": "Saransh Goila",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 4,
+        "likes": 500000,
+        "recipes": [
+            {
+                "recipeId": 1,
+                "recipeName": "Dhokla",
+                "ingredients": [
+                    "Gram Flour",
+                    "Yogurt",
+                    "Spices",
+                    "Green Chilies",
+                    "Mustard Seeds"
+                ],
+                "cookingMethod": "Mix gram flour, yogurt, and spices, steam and temper with mustard seeds and green chilies",
+                "rating": 4.8
+            },
+            {
+                "recipeId": 2,
+                "recipeName": "Keema Pav",
+                "ingredients": [
+                    "Lamb",
+                    "Onions",
+                    "Tomatoes",
+                    "Spices",
+                    "Bread"
+                ],
+                "cookingMethod": "Cook lamb with onions, tomatoes, and spices, and serve with bread",
+                "rating": 4.6
+            },
+            {
+                "recipeId": 3,
+                "recipeName": "Kheer",
+                "ingredients": [
+                    "Milk",
+                    "Rice",
+                    "Sugar",
+                    "Cardamom",
+                    "Nuts"
+                ],
+                "cookingMethod": "Boil milk and rice with sugar and cardamom, and garnish with nuts",
+                "rating": 4.5
+            },
+            {
+                "recipeId": 4,
+                "recipeName": "Chole Bhature",
+                "ingredients": [
+                    "Chickpeas",
+                    "Flour",
+                    "Onion",
+                    "Tomato",
+                    "Cumin"
+                ],
+                "cookingMethod": "Soak chickpeas overnight. Pressure cook chickpeas and saute onion, cumin, ginger and garlic. Add tomato puree and cook till oil separates. Add chickpeas and cook for few minutes. Serve hot with deep-fried bread.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "chefId": 6,
+        "chefPicture": "https://example.com/ranveer-brar.png",
+        "chefName": "Ranveer Brar",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 3,
+        "likes": 10000,
+        "recipes": [
+            {
+                "recipeId": 1,
+                "recipeName": "Keema Pao",
+                "ingredients": [
+                    "Minced meat",
+                    "Onion",
+                    "Tomato",
+                    "Spices",
+                    "Bread"
+                ],
+                "cookingMethod": "Saute onions, add minced meat and spices, simmer with tomato, serve with bread",
+                "rating": 4.8
+            },
+            {
+                "recipeId": 2,
+                "recipeName": "Fish Curry",
+                "ingredients": [
+                    "Fish",
+                    "Coconut Milk",
+                    "Tomatoes",
+                    "Onions",
+                    "Spices"
+                ],
+                "cookingMethod": "Saute onions, add spices and tomatoes, simmer with fish and coconut milk, serve hot",
+                "rating": 4.5
+            },
+            {
+                "recipeId": 3,
+                "recipeName": "Aloo Paratha",
+                "ingredients": [
+                    "Potatoes",
+                    "Flour",
+                    "Spices",
+                    "Ghee",
+                    "Yogurt"
+                ],
+                "cookingMethod": "Boil potatoes, mash with spices, make dough with flour, stuff with potatoes, cook with ghee, serve with yogurt",
+                "rating": 4.6
+            }
+        ]
+    }
+]
