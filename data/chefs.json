@@ -3,6 +3,7 @@
         "chefId": 1,
         "chefPicture": "https://i.ibb.co/60h1mR8/suvir-saran.jpg",
         "chefName": "Suvir Saran",
+        "chefBio": "Suvir Saran is an Indian chef, restaurateur, and cookbook author. He is known for his contemporary take on traditional Indian cuisine and has received critical acclaim for his culinary skills.",
         "yearsOfExperience": 20,
         "likes": 20000,
         "numberOfRecipes": 4,
@@ -69,6 +70,7 @@
         "chefId": 2,
         "chefPicture": "https://i.ibb.co/1JPmRmJ/vikas-khanna.jpg",
         "chefName": "Vikas Khanna",
+        "chefBio": "Vikas Khanna is a Michelin-starred Indian chef, restaurateur, cookbook writer, filmmaker, and humanitarian. He has been honored by several prestigious institutions for his culinary contributions, and his restaurants have earned critical acclaim worldwide.",
         "yearsOfExperience": 25,
         "likes": 50000,
         "numberOfRecipes": 3,
@@ -121,6 +123,7 @@
         "chefId": 3,
         "chefPicture": "https://i.ibb.co/F0B5nFX/sanjeev-kapoor.jpg",
         "chefName": "Sanjeev Kapoor",
+        "chefBio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known for his popular TV show 'Khana Khazana' which aired for over two decades and for his contribution in bringing Indian cuisine to the world stage.",
         "yearsOfExperience": 30,
         "likes": 100000,
         "numberOfRecipes": 5,
@@ -199,6 +202,7 @@
         "chefId": 4,
         "chefPicture": "https://i.ibb.co/q9Y3Ys0/madhur-jaffrey.jpg",
         "chefName": "Madhur Jaffrey",
+        "chefBio": "Madhur Jaffrey is an Indian-born food writer, and television personality who has authored several cookbooks and appeared in numerous TV shows. She is widely known for introducing Indian cuisine to the western world and promoting healthy and vegetarian cooking.",
         "yearsOfExperience": 35,
         "likes": 75000,
         "numberOfRecipes": 3,
@@ -250,6 +254,7 @@
         "chefId": 5,
         "chefPicture": "https://i.ibb.co/gSmCQkg/saransh-goila.jpg",
         "chefName": "Saransh Goila",
+        "chefBio": "Saransh Goila is a renowned Indian chef, author, and television personality. He is best known for his popular food travelogue show 'Roti, Rasta aur India', and has authored several cookbooks, including 'India On My Platter' and 'Healthy Chicken Recipes'.",
         "yearsOfExperience": 12,
         "numberOfRecipes": 4,
         "likes": 500000,
@@ -303,7 +308,7 @@
                     "Tomato",
                     "Cumin"
                 ],
-                "cookingMethod": "Soak chickpeas overnight. Pressure cook chickpeas and saute onion, cumin, ginger and garlic. Add tomato puree and cook till oil separates. Add chickpeas and cook for few minutes. Serve hot with deep-fried bread.",
+                "cookingMethod": "Soak chickpeas overnight. Pressure cook chickpeas and saute onion, cumin, ginger and garlic. Add tomato puree and cook till oil separates. Add chickpeas and cook for few minutes. Serve hot with deep-fried bread",
                 "rating": 4.5
             }
         ]
@@ -312,6 +317,7 @@
         "chefId": 6,
         "chefPicture": "https://i.ibb.co/rcQ9nCR/ranveer-brar.jpg",
         "chefName": "Ranveer Brar",
+        "chefBio": "Ranveer Brar is an Indian celebrity chef, restaurateur, and television personality. He has hosted several cooking shows and has been a judge on popular culinary competitions. With over two decades of experience in the industry, Chef Brar is known for his unique fusion style that blends Indian flavors with international techniques.",
         "yearsOfExperience": 20,
         "numberOfRecipes": 3,
         "likes": 10000,
